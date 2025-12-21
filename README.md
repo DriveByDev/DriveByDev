@@ -1,5 +1,5 @@
 # About Me:
-Flutter App Developer<br>Python Developer<br>Cyber Security<br>Currently completing A+, Net+, Sec+ Certificates<br>Automotive - Landscape - Urban - Photographer
+Flutter<br>Python<br>Cyber Security<br>Currently completing A+, Net+, Sec+ Certificates<br>Automotive - Landscape - Urban - Photographer
 
 
 ## 🌐 Socials:
