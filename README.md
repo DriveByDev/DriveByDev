@@ -1,6 +1,8 @@
 # About Me:
 Flutter<br>Python<br>Cyber Security<br>Currently completing A+, Net+, Sec+ Certificates<br>Automotive - Landscape - Urban - Photographer
 
+# Cyber Security (Incl Certificates & Projects):
+- CompTIA A+ 1201 1202 Certified
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drive.by.frames) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raspaholic.industries@gmail.com) 
