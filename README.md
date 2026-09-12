@@ -1,5 +1,5 @@
 # About Me:
-Flutter<br>Python<br>Cyber Security<br>Currently completing A+, Net+, Sec+ Certificates<br>Automotive - Landscape - Urban - Photographer
+Flutter<br>Python<br>Cyber Security<br>Currently completing Net+ Certificate<br>Automotive - Landscape - Urban - Photographer
 
 # Cyber Security (Incl Certificates & Projects):
 - CompTIA A+ 1201 1202 Certified
